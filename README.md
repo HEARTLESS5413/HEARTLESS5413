@@ -3,7 +3,7 @@
 # 🌌 Welcome to My Digital Workspace
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=80&lines=Hi+There!+I'm+Abhijeet+Singh+Thakur+👋;Full+Stack+Developer+(MERN);AI+%26+ML+Enthusiast;Transforming+Ideas+Into+Code+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=80&lines=Hi+There!+I'm+Abhijeet+Singh+Thakur+👋;Full+Stack+Developer+(MERN);TECHNOLOGY+%26+AI+Enthusiast;Transforming+Ideas+Into+Code+🚀" alt="Typing SVG" />
 </a>
 
 
